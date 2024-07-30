@@ -35,6 +35,10 @@ If you want a gradient background for the plot:
 plot_single_spectrum(default_params, nmLIB, MU, show_params=True, use_gradient=True)
 ```
 
+<div align="center">
+    <img src="Rd_single_spectrum.png" alt="Single Spectrum" width="800"/>
+</div>
+
 ### Varying a Single Parameter
 
 To visualize how the reflectance spectrum changes with varying a single parameter:
@@ -48,6 +52,10 @@ If you prefer a gradient background:
 ```python
 plot_varying_parameter('oxygen_saturation', 0.7, 1.0, 12, nmLIB, MU, default_params, use_gradient=True)
 ```
+
+<div align="center">
+    <img src="Rd_varying_single_parameter.png" alt="Spectra Varying Single Parameter" width="800"/>
+</div>
 
 ### Varying Multiple Parameters
 
@@ -68,6 +76,10 @@ For a plot with a gradient background:
 ```python
 plot_varying_multiple_parameters(param_ranges, nmLIB, MU, default_params, use_gradient=True)
 ```
+
+<div align="center">
+    <img src="Rd_varying_multiple_parameters.png" alt="Spectra Varying Multiple Parameters" width="800"/>
+</div>
 
 ### Functions Overview
 
