@@ -1,6 +1,6 @@
 # Diffuse Reflectance Spectrum of Skin Using Farrell's Model
 
-This Jupyter Notebook provides a set of functions for plotting the reflectance spectra of skin based on the Farrell diffusion theory. The notebook includes functions to load spectral data, calculate optical properties, and visualize reflectance spectra by varying different parameters.
+This Jupyter Notebook **Farrell_Rd_PlottingTool.ipynb** provides a set of functions for plotting the reflectance spectra of skin based on the Farrell diffusion theory. The notebook includes functions to load spectral data, calculate optical properties, and visualize reflectance spectra by varying different parameters.
 
 ## How to Use This Notebook
 
